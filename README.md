@@ -15,6 +15,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://github.com/iPlug2/iPlug2" target="_blank" rel="noreferrer">
-    🎛️ <strong>iPlug2</strong>
+    <img src="https://avatars.githubusercontent.com/u/36328372?s=200&v=4" alt="iplug2" width="40" height="40"/>
   </a>
 </p>

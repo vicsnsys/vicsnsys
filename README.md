@@ -1,20 +1,42 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate back-end student from Brazil, on a journey to connect code and creativity.</h3>
+<h1 align="center">hi 👋, i'm victor</h1>
+<h3 align="center">back-end student passionate about java, spring, and turning ideas into solid systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicsnsys&label=Profile%20views&color=0e75b6&style=flat" alt="vicsnsys" /> </p>
 
-- 🌱 I’m currently learning **C++**, focusing on back-end systems and audio plugin development  
-- 🎛️ Exploring **iPlug2** to eventually build expressive tools for sound and art  
-- 🎯 My goal is to bridge the gap between **technical depth** and **artistic expression**
+- 🌱 deepening my knowledge of **java** and the **spring** ecosystem (Spring Boot, Spring Data JPA, and domain modeling)
+- 🎯 my goal is to build robust, well-architected back-ends, combining solid engineering practices with projects that bridge technology and creativity
+- 📫 how to reach me: [github](https://github.com/vicsnsys)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages and tools:</h3>
 <p align="left">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://github.com/iPlug2/iPlug2" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/36328372?s=200&v=4" alt="iplug2" width="40" height="40"/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">github stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicsnsys&show_icons=true&theme=default" alt="vicsnsys" />
+</p>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicsnsys" alt="vicsnsys" />
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm victor</h1>
+<h1 align="center">hi, i'm victor</h1>
 <h3 align="center">back-end student passionate about java, spring, and turning ideas into solid systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicsnsys&label=Profile%20views&color=0e75b6&style=flat" alt="vicsnsys" /> </p>
@@ -31,9 +31,7 @@
 ---
 
 <h3 align="left">stats:</h3>
-<p align="left">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)
-</p>
-<p align="left">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)
-</p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github.com/vicsnsys)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)](https://github.com/vicsnsys)

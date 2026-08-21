@@ -5,7 +5,7 @@
 
 - 🌱 deepening my knowledge of **java** and the **spring** ecosystem (Spring Boot, Spring Data JPA, and domain modeling)
 - 🎯 my goal is to build robust, well-architected back-ends, combining solid engineering practices with projects that bridge technology and creativity
-- 📫 how to reach me: [github](https://github.com/vicsnsys)
+- 📫 how to reach me: [vicsnsys@gmail.com](mailto:vicsnsys@gmail.com)
 
 ---
 
@@ -13,9 +13,6 @@
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
@@ -33,10 +30,10 @@
 
 ---
 
-<h3 align="left">github stats:</h3>
+<h3 align="left">stats:</h3>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicsnsys&show_icons=true&theme=default" alt="vicsnsys" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicsnsys" alt="vicsnsys" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=vicsnsys&theme=default" alt="vicsnsys" />
 </p>

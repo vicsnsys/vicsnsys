@@ -32,6 +32,4 @@
 
 <h3 align="left">stats:</h3>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github.com/vicsnsys)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)](https://github.com/vicsnsys)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github.com/vicsnsys) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)](https://github.com/vicsnsys)

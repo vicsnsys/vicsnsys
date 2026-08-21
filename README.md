@@ -32,8 +32,8 @@
 
 <h3 align="left">stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicsnsys&show_icons=true&theme=default" alt="vicsnsys" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=vicsnsys&custom_title=stats&show_icons=true&include_all_commits=true&theme=shadow_red)
 </p>
 <p align="left">
-  <img align="center" src="https://streak-stats.demolab.com/?user=vicsnsys&theme=default" alt="vicsnsys" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=vicsnsys&layout=compact&hide_title=true&langs_count=3&theme=shadow_red)
 </p>
